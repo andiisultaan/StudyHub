@@ -39,7 +39,7 @@ StudyHub is a web application designed for students who want to learn specific t
 
 ### Preview:
 
-<img width="1470" alt="StudyHub Screenshot" src="https://raw.githubusercontent.com/username/repository/branch/assets/study-hub-img.jpg">
+<img width="1470" alt="StudyHub Screenshot" src="https://raw.githubusercontent.com/username/repository/branch/public/assets/study-hub-img.jpg">
 
 
 Explore StudyHub to enhance your learning experience with structured roadmaps, engaging forums, and dynamic resources—all in one platform!
