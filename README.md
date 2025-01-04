@@ -1,6 +1,7 @@
 # StudyHub
 
 ## Feel Free to Try This Website - Please Use Laptop or Desktop for Better Experience
+
 [StudyHub App](https://studyhub-app.vercel.app)
 
 ## About StudyHub
@@ -10,16 +11,20 @@ StudyHub is a web application designed for students who want to learn specific t
 ### Key Features:
 
 1. **AI-Powered Learning Roadmap Generator**
+
    - Generate customized learning roadmaps, helping students progress from the basics to advanced levels.
    - Example: For "Web Development," the roadmap starts with HTML and CSS, moves to JavaScript, then to frameworks like React, and finally backend technologies like Node.js.
 
 2. **Interactive Learning Flowmap**
+
    - Visualize the learning journey through an interactive flowmap, showing connections between topics and recommended progression.
 
 3. **Dynamic Learning Resources**
+
    - Get tailored recommendations for learning materials, including videos, articles, and exercises for each stage of the roadmap.
 
 4. **Stack Overflow-like Discussion Forum**
+
    - Collaborate with peers, ask questions, and discuss challenging topics. AI support provides initial answers or directs users to relevant materials.
 
 5. **Progress Assessment and Additional Recommendations**
@@ -39,7 +44,6 @@ StudyHub is a web application designed for students who want to learn specific t
 
 ### Preview:
 
-<img width="1470" alt="StudyHub Screenshot" src="https://raw.githubusercontent.com/username/repository/branch/public/assets/study-hub-img.jpg">
-
+<img width="1470" alt="StudyHub Screenshot" src="./public/study-hub-img.jpg">
 
 Explore StudyHub to enhance your learning experience with structured roadmaps, engaging forums, and dynamic resources—all in one platform!
