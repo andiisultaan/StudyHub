@@ -53,7 +53,7 @@
     "framer-motion": "^11.11.11",
     "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.455.0",
-    "mongodb": "^6.10.0",
+    "mongodb": "5.9.2",
     "mongoose": "^8.8.1",
     "next": "14.2.15",
     "next-auth": "^4.24.10",
