@@ -137,7 +137,7 @@ export default function QuestionDetailPage({ params }: { params: { id: string } 
       <div className="flex items-center justify-center min-h-screen">
         <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} className="text-center">
           <h2 className="text-2xl font-bold mb-2">Question not found</h2>
-          <p className="text-muted-foreground">The question you're looking for doesn't exist or has been removed.</p>
+          <p className="text-muted-foreground">The question you&apos;re looking for doesn&apos;t exist or has been removed.</p>
           <Link href="/forum" className="mt-4 inline-block">
             <Button variant="outline">
               <ArrowLeft className="mr-2 h-4 w-4" />
